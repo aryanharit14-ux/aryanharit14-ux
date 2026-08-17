@@ -1,6 +1,8 @@
 # Aryan Harit
 
-### AI & ML Engineer | Full-Stack Developer | DSA Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7C5CFC&center=true&vCenter=true&width=600&lines=AI+%26+ML+Engineer;Full-Stack+Developer;Backend+Developer;DSA+Enthusiast;Machine+Learning+Explorer" alt="Typing SVG" />
+</p>
 
 ---
 
