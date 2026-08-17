@@ -38,7 +38,7 @@ class AryanHarit:
             "Full-Stack Development",
             "System Design"
         ]
-
+```
 ## 🎯 Current Focus
 
 | 🧩 DSA & Problem Solving | 🤖 Artificial Intelligence | 📊 Machine Learning |
